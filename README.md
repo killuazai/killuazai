@@ -13,36 +13,36 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 
 ## About me
 
-- 🎓 BS Applied Mathematics graduate, Cavite State University (2026).
-- 🏅 Databricks Certified Data Engineer Associate.
-- 🛠️ Completed the FTW Foundation Data Engineering Scholarship Program, Batch 12 (Jul–Oct 2026).
-- 🔄 Build and validate Bronze-Silver-Gold data pipelines, with interests in data quality, dimensional modeling, orchestration, and reproducible engineering workflows.
-- 🤝 Bring an additional background in digital marketing, reporting, and cross-functional collaboration.
+- BS Applied Mathematics graduate, Cavite State University (2026).
+- Databricks Certified Data Engineer Associate.
+- Completed the FTW Foundation Data Engineering Scholarship Program, Batch 12 (Jul–Oct 2026).
+- Build and validate Bronze-Silver-Gold data pipelines, with interests in data quality, dimensional modeling, orchestration, and reproducible engineering workflows.
+- Bring an additional background in digital marketing, reporting, and cross-functional collaboration.
 
 ## Featured data engineering projects
 
-### 🏗️ [Philippine Infrastructure Project Monitoring](https://github.com/Buildabida/infra-project-monitoring)
+### [Philippine Infrastructure Project Monitoring](https://github.com/Buildabida/infra-project-monitoring)
 **FTW Capstone | Group project | Databricks, PySpark, SQL, Delta Lake**
 
 - Integrated **6 public dataset snapshots totaling 470,484 Bronze source records** in a collaborative medallion pipeline.
 - Contributed to **Silver-layer geographic standardization and location matching** against PSGC references, dimensional modeling, and validation.
 - Focused on traceable source integration, data quality, and cost-conscious engineering decisions.
 
-### 🚕 [NYC Mobility Ingestion Challenge](https://github.com/ftw-group-b/NYC-Mobility-Ingestion-Challenge)
+### [NYC Mobility Ingestion Challenge](https://github.com/ftw-group-b/NYC-Mobility-Ingestion-Challenge)
 **FTW Group project | Databricks, PySpark, SQL, Delta Lake, Great Expectations, GitHub Actions**
 
 - Built a team pipeline integrating **3 data sources**: NYC Green Taxi trips, taxi zones, and hourly weather.
 - Processed **133,367 Green Taxi records** from March–May 2026, preserving all records from Bronze to Silver.
 - Implemented team workflows for incremental ingestion, idempotent reruns, layer validation, Databricks Jobs, and CI/CD deployment.
 
-### 🛒 [Instacart Data Pipeline](https://github.com/killuazai/instacart-data-pipeline)
+### [Instacart Data Pipeline](https://github.com/killuazai/instacart-data-pipeline)
 **FTW Group project | Databricks SQL, Delta Lake**
 
 - Owned **Bronze ingestion and validation** for **6 CSV datasets totaling 37,290,032 source records**.
 - Used schema checks, row-count reconciliation, and rescued-data monitoring, with **zero reported ingestion row loss**.
 - Collaborated on a pipeline supporting retail dimensional modeling, analytics, and dashboards.
 
-### 🎓 [OULAD Learning Analytics Pipeline](https://github.com/ftw-group-b/OULAD-dimensional-model)
+### [OULAD Learning Analytics Pipeline](https://github.com/ftw-group-b/OULAD-dimensional-model)
 **FTW Group project | Databricks SQL, dbt, Metabase**
 
 - Integrated **7 education datasets**, including **10,655,280 Bronze VLE interaction records**.
