@@ -7,7 +7,7 @@
 Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzielle-nadine-canquin-130164370/)
-[![Databricks Certification](https://img.shields.io/badge/Databricks-DE%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d)
+[![Databricks Certification](https://img.shields.io/badge/Databricks-DE%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d#acc.KSmXkijZ)
 
 </div>
 
