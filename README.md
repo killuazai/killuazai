@@ -8,6 +8,7 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franzielle-nadine-canquin-130164370/)
 [![Databricks Certification](https://img.shields.io/badge/Databricks-DE%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d#acc.KSmXkijZ)
+[![DataCamp Certification](https://img.shields.io/badge/DataCamp-DE%20Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=black)](https://www.datacamp.com/certificate/DEA0012272946436)
 
 </div>
 
@@ -15,6 +16,7 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 
 - BS Applied Mathematics graduate, Cavite State University (2026).
 - Databricks Certified Data Engineer Associate
+- DataCamp Data Engineer Associate certification
 - Completed the FTW Foundation Data Engineering Scholarship Program, Batch 12 (Jul–Oct 2026).
 - Build and validate Bronze-Silver-Gold data pipelines, with interests in data quality, dimensional modeling, orchestration, and reproducible engineering workflows.
 - Bring an additional background in digital marketing, reporting, and cross-functional collaboration.
