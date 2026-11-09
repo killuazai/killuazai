@@ -14,7 +14,7 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 ## About me
 
 - BS Applied Mathematics graduate, Cavite State University (2026).
-- [![Databricks Certified Data Engineer Associate](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d#acc.KSmXkijZ)
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d#acc.KSmXkijZ)
 - Completed the FTW Foundation Data Engineering Scholarship Program, Batch 12 (Jul–Oct 2026).
 - Build and validate Bronze-Silver-Gold data pipelines, with interests in data quality, dimensional modeling, orchestration, and reproducible engineering workflows.
 - Bring an additional background in digital marketing, reporting, and cross-functional collaboration.
