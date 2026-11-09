@@ -14,7 +14,7 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 ## About me
 
 - BS Applied Mathematics graduate, Cavite State University (2026).
-- Databricks Certified Data Engineer Associate.
+- [![Databricks Certified Data Engineer Associate](https://credentials.databricks.com/593ccdc0-63f3-4093-8aa5-2f59ab32226d#acc.KSmXkijZ)
 - Completed the FTW Foundation Data Engineering Scholarship Program, Batch 12 (Jul–Oct 2026).
 - Build and validate Bronze-Silver-Gold data pipelines, with interests in data quality, dimensional modeling, orchestration, and reproducible engineering workflows.
 - Bring an additional background in digital marketing, reporting, and cross-functional collaboration.
@@ -63,13 +63,3 @@ Applied Mathematics graduate and FTW Foundation Data Engineering Batch 12 alumna
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
-## Contribution activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/killuazai/killuazai/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/killuazai/killuazai/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/killuazai/killuazai/output/github-contribution-grid-snake.svg" />
-</picture>
